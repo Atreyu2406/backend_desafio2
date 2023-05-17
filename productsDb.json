@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Books",
+		"description": "Libro género fantástico",
+		"price": "8000",
+		"code": "2574",
+		"stock": "12",
+		"img": "https://http2.mlstatic.com/D_NQ_NP_941946-MLA46913432105_072021-V.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Cell Phones",
+		"description": "Samsung Galaxy",
+		"price": "140000",
+		"code": "1340",
+		"stock": "8",
+		"img": "https://tienda.movistar.com.ar/media/catalog/produ…cf95fcf479279f9ae509ad/a/2/a23-negro-frente_1.png"
+	}
+]
